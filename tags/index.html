@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive Tags</title>
+    <style>
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+      }
+      .tag {
+        display: inline-block;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        margin-bottom: 6px;
+        /* padding-left: 16px;
+        padding-right: 16px; */
+        border-radius: 20px;
+        line-height: 1;
+        border: 2px solid #75736a;
+        color: #75736a;
+        background-color: #e7e7e7;
+        flex-grow: 1;
+        text-align: center;
+      }
+      @media screen and (max-width: 577px) {
+        .tag {
+          gap: 4px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="tag">Raw water</div>
+      <div class="tag">Electrical Cable</div>
+      <div class="tag">Pressure Sewage and Sludges</div>
+      <div class="tag">Storm Water</div>
+      <div class="tag">Medium Pressure Gas</div>
+      <div class="tag">Low Pressure Gas</div>
+      <div class="tag">Cathodic Protection</div>
+      <div class="tag">Earthing Cables</div>
+      <div class="tag">Ground Dewatering</div>
+      <div class="tag">Sand Gravel and Slurries</div>
+      <div class="tag">Recycled Water</div>
+      <div class="tag">Potable Water</div>
+      <div class="tag">Sleeve Enveloper or Casing Pipe</div>
+      <div class="tag">Sleeves</div>
+    </div>
+    <script>
+      function getTextWidth(text, font) {
+        const canvas = document.createElement('canvas');
+        const context = canvas.getContext('2d');
+        context.font = font;
+        return context.measureText(text).width;
+      }
+
+      function applyTagStyles() {
+        const tags = document.querySelectorAll('.tag');
+        const isSmallScreen = window.innerWidth < 577;
+        tags.forEach((tag) => {
+          const style = getComputedStyle(tag);
+          const font = `${style.fontSize} ${style.fontFamily}`;
+          const textWidth = getTextWidth(tag.textContent, font);
+          const minWidth = textWidth + (isSmallScreen ? 16 : 32); // Adjusting based on screen size
+          const maxWidth = textWidth + 100;
+
+          tag.style.minWidth = `${minWidth}px`;
+          tag.style.maxWidth = `${maxWidth}px`;
+        });
+      }
+
+      document.addEventListener('DOMContentLoaded', applyTagStyles);
+      window.addEventListener('resize', applyTagStyles);
+    </script>
+  </body>
+</html>
