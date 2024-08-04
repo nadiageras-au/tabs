@@ -1,0 +1,446 @@
+sleeve,pipe,setup,tag
+HDPE,HDPE,Single,Raw Water
+HDPE,HDPE,Parallel,Raw Water
+HDPE,HDPE,Parallel Mix,Raw Water
+HDPE,HDPE,Bundle Uniform,Raw Water
+HDPE,HDPE,Bundle Various,Raw Water
+HDPE,HDPE,Bundle Mix,Raw Water
+HDPE,HDPE,Single,Potable Water
+HDPE,HDPE,Parallel,Potable Water
+HDPE,HDPE,Parallel Mix,Potable Water
+HDPE,HDPE,Bundle Uniform,Potable Water
+HDPE,HDPE,Bundle Various,Potable Water
+HDPE,HDPE,Bundle Mix,Potable Water
+HDPE,HDPE,Single,Recycled Water
+HDPE,HDPE,Parallel,Recycled Water
+HDPE,HDPE,Parallel Mix,Recycled Water
+HDPE,HDPE,Bundle Uniform,Recycled Water
+HDPE,HDPE,Bundle Various,Recycled Water
+HDPE,HDPE,Bundle Mix,Recycled Water
+HDPE,HDPE,Single,Sea Water
+HDPE,HDPE,Parallel,Sea Water
+HDPE,HDPE,Parallel Mix,Sea Water
+HDPE,HDPE,Bundle Uniform,Sea Water
+HDPE,HDPE,Bundle Various,Sea Water
+HDPE,HDPE,Bundle Mix,Sea Water
+HDPE,HDPE,Single,Pressute Sewage and Sludges
+HDPE,HDPE,Parallel,Pressute Sewage and Sludges
+HDPE,HDPE,Parallel Mix,Pressute Sewage and Sludges
+HDPE,HDPE,Bundle Uniform,Pressute Sewage and Sludges
+HDPE,HDPE,Bundle Various,Pressute Sewage and Sludges
+HDPE,HDPE,Bundle Mix,Pressute Sewage and Sludges
+HDPE,HDPE,Single,Storm Water
+HDPE,HDPE,Parallel,Storm Water
+HDPE,HDPE,Parallel Mix,Storm Water
+HDPE,HDPE,Bundle Uniform,Storm Water
+HDPE,HDPE,Bundle Various,Storm Water
+HDPE,HDPE,Bundle Mix,Storm Water
+HDPE,HDPE,Single,Sand Gravel and Slurries
+HDPE,HDPE,Parallel,Sand Gravel and Slurries
+HDPE,HDPE,Parallel Mix,Sand Gravel and Slurries
+HDPE,HDPE,Bundle Uniform,Sand Gravel and Slurries
+HDPE,HDPE,Bundle Various,Sand Gravel and Slurries
+HDPE,HDPE,Bundle Mix,Sand Gravel and Slurries
+HDPE,HDPE,Single,Medium Pressure Gas
+HDPE,HDPE,Parallel,Medium Pressure Gas
+HDPE,HDPE,Parallel Mix,Medium Pressure Gas
+HDPE,HDPE,Bundle Uniform,Medium Pressure Gas
+HDPE,HDPE,Bundle Various,Medium Pressure Gas
+HDPE,HDPE,Bundle Mix,Medium Pressure Gas
+HDPE,HDPE,Single,Low Pressure Gas
+HDPE,HDPE,Parallel,Low Pressure Gas
+HDPE,HDPE,Parallel Mix,Low Pressure Gas
+HDPE,HDPE,Bundle Uniform,Low Pressure Gas
+HDPE,HDPE,Bundle Various,Low Pressure Gas
+HDPE,HDPE,Bundle Mix,Low Pressure Gas
+HDPE,HDPE,Single,Electrical Cables
+HDPE,HDPE,Parallel,Electrical Cables
+HDPE,HDPE,Parallel Mix,Electrical Cables
+HDPE,HDPE,Bundle Uniform,Electrical Cables
+HDPE,HDPE,Bundle Various,Electrical Cables
+HDPE,HDPE,Bundle Mix,Electrical Cables
+HDPE,HDPE,Single,Telecommunications Cables
+HDPE,HDPE,Parallel,Telecommunications Cables
+HDPE,HDPE,Parallel Mix,Telecommunications Cables
+HDPE,HDPE,Bundle Uniform,Telecommunications Cables
+HDPE,HDPE,Bundle Various,Telecommunications Cables
+HDPE,HDPE,Bundle Mix,Telecommunications Cables
+HDPE,HDPE,Single,Cathodic Protection
+HDPE,HDPE,Parallel,Cathodic Protection
+HDPE,HDPE,Parallel Mix,Cathodic Protection
+HDPE,HDPE,Bundle Uniform,Cathodic Protection
+HDPE,HDPE,Bundle Various,Cathodic Protection
+HDPE,HDPE,Bundle Mix,Cathodic Protection
+HDPE,HDPE,Single,Earthing Cables
+HDPE,HDPE,Parallel,Earthing Cables
+HDPE,HDPE,Parallel Mix,Earthing Cables
+HDPE,HDPE,Bundle Uniform,Earthing Cables
+HDPE,HDPE,Bundle Various,Earthing Cables
+HDPE,HDPE,Bundle Mix,Earthing Cables
+HDPE,HDPE,Single,Ground Dewatering
+HDPE,HDPE,Parallel,Ground Dewatering
+HDPE,HDPE,Parallel Mix,Ground Dewatering
+HDPE,HDPE,Bundle Uniform,Ground Dewatering
+HDPE,HDPE,Bundle Various,Ground Dewatering
+HDPE,HDPE,Bundle Mix,Ground Dewatering
+HDPE,Steel,Single,Ethanol and Biofuels
+HDPE,Steel,Parallel,Ethanol and Biofuels
+HDPE,Steel,Parallel Mix,Ethanol and Biofuels
+HDPE,Steel,Dual,Ethanol and Biofuels
+HDPE,Steel,Dual Various,Ethanol and Biofuels
+HDPE,Steel,Bundle Mix,Ethanol and Biofuels
+HDPE,Steel,Single,Hydrogen Compounds
+HDPE,Steel,Parallel,Hydrogen Compounds
+HDPE,Steel,Parallel Mix,Hydrogen Compounds
+HDPE,Steel,Dual,Hydrogen Compounds
+HDPE,Steel,Dual Various,Hydrogen Compounds
+HDPE,Steel,Bundle Mix,Hydrogen Compounds
+HDPE,Steel,Single,Hydrogen
+HDPE,Steel,Parallel,Hydrogen
+HDPE,Steel,Parallel Mix,Hydrogen
+HDPE,Steel,Dual,Hydrogen
+HDPE,Steel,Dual Various,Hydrogen
+HDPE,Steel,Bundle Mix,Hydrogen
+HDPE,Steel,Single,Fuel/Gasoline
+HDPE,Steel,Parallel,Fuel/Gasoline
+HDPE,Steel,Parallel Mix,Fuel/Gasoline
+HDPE,Steel,Dual,Fuel/Gasoline
+HDPE,Steel,Dual Various,Fuel/Gasoline
+HDPE,Steel,Bundle Mix,Fuel/Gasoline
+HDPE,Steel,Single,Diesel
+HDPE,Steel,Parallel,Diesel
+HDPE,Steel,Parallel Mix,Diesel
+HDPE,Steel,Dual,Diesel
+HDPE,Steel,Dual Various,Diesel
+HDPE,Steel,Bundle Mix,Diesel
+HDPE,Steel,Single,Jet fuel
+HDPE,Steel,Parallel,Jet fuel
+HDPE,Steel,Parallel Mix,Jet fuel
+HDPE,Steel,Dual,Jet fuel
+HDPE,Steel,Dual Various,Jet fuel
+HDPE,Steel,Bundle Mix,Jet fuel
+HDPE,Steel,Single,Medium Pressure Gas
+HDPE,Steel,Parallel,Medium Pressure Gas
+HDPE,Steel,Parallel Mix,Medium Pressure Gas
+HDPE,Steel,Dual,Medium Pressure Gas
+HDPE,Steel,Dual Various,Medium Pressure Gas
+HDPE,Steel,Bundle Mix,Medium Pressure Gas
+HDPE,Steel,Single,Low Pressure Gas
+HDPE,Steel,Parallel,Low Pressure Gas
+HDPE,Steel,Parallel Mix,Low Pressure Gas
+HDPE,Steel,Dual,Low Pressure Gas
+HDPE,Steel,Dual Various,Low Pressure Gas
+HDPE,Steel,Bundle Mix,Low Pressure Gas
+HDPE,Steel,Single,High/Transmission Pressure Gas
+HDPE,Steel,Parallel,High/Transmission Pressure Gas
+HDPE,Steel,Parallel Mix,High/Transmission Pressure Gas
+HDPE,Steel,Dual,High/Transmission Pressure Gas
+HDPE,Steel,Dual Various,High/Transmission Pressure Gas
+HDPE,Steel,Bundle Mix,High/Transmission Pressure Gas
+HDPE,Steel,Single,Ground Dewatering
+HDPE,Steel,Parallel,Ground Dewatering
+HDPE,Steel,Parallel Mix,Ground Dewatering
+HDPE,Steel,Dual,Ground Dewatering
+HDPE,Steel,Dual Various,Ground Dewatering
+HDPE,Steel,Bundle Mix,Ground Dewatering
+No Sleeve,HDPE,Single,Raw Water
+No Sleeve,HDPE,Parallel,Raw Water
+No Sleeve,HDPE,Parallel Mix,Raw Water
+No Sleeve,HDPE,Bundle Uniform,Raw Water
+No Sleeve,HDPE,Bundle Various,Raw Water
+No Sleeve,HDPE,Bundle Mix,Raw Water
+No Sleeve,HDPE,Single,Potable Water
+No Sleeve,HDPE,Parallel,Potable Water
+No Sleeve,HDPE,Parallel Mix,Potable Water
+No Sleeve,HDPE,Bundle Uniform,Potable Water
+No Sleeve,HDPE,Bundle Various,Potable Water
+No Sleeve,HDPE,Bundle Mix,Potable Water
+No Sleeve,HDPE,Single,Recycled Water
+No Sleeve,HDPE,Parallel,Recycled Water
+No Sleeve,HDPE,Parallel Mix,Recycled Water
+No Sleeve,HDPE,Bundle Uniform,Recycled Water
+No Sleeve,HDPE,Bundle Various,Recycled Water
+No Sleeve,HDPE,Bundle Mix,Recycled Water
+No Sleeve,HDPE,Single,Sea Water
+No Sleeve,HDPE,Parallel,Sea Water
+No Sleeve,HDPE,Parallel Mix,Sea Water
+No Sleeve,HDPE,Bundle Uniform,Sea Water
+No Sleeve,HDPE,Bundle Various,Sea Water
+No Sleeve,HDPE,Bundle Mix,Sea Water
+No Sleeve,HDPE,Single,Pressute Sewage and Sludges
+No Sleeve,HDPE,Parallel,Pressute Sewage and Sludges
+No Sleeve,HDPE,Parallel Mix,Pressute Sewage and Sludges
+No Sleeve,HDPE,Bundle Uniform,Pressute Sewage and Sludges
+No Sleeve,HDPE,Bundle Various,Pressute Sewage and Sludges
+No Sleeve,HDPE,Bundle Mix,Pressute Sewage and Sludges
+No Sleeve,HDPE,Single,Storm Water
+No Sleeve,HDPE,Parallel,Storm Water
+No Sleeve,HDPE,Parallel Mix,Storm Water
+No Sleeve,HDPE,Bundle Uniform,Storm Water
+No Sleeve,HDPE,Bundle Various,Storm Water
+No Sleeve,HDPE,Bundle Mix,Storm Water
+No Sleeve,HDPE,Single,Sand Gravel and Slurries
+No Sleeve,HDPE,Parallel,Sand Gravel and Slurries
+No Sleeve,HDPE,Parallel Mix,Sand Gravel and Slurries
+No Sleeve,HDPE,Bundle Uniform,Sand Gravel and Slurries
+No Sleeve,HDPE,Bundle Various,Sand Gravel and Slurries
+No Sleeve,HDPE,Bundle Mix,Sand Gravel and Slurries
+No Sleeve,HDPE,Single,Medium Pressure Gas
+No Sleeve,HDPE,Parallel,Medium Pressure Gas
+No Sleeve,HDPE,Parallel Mix,Medium Pressure Gas
+No Sleeve,HDPE,Bundle Uniform,Medium Pressure Gas
+No Sleeve,HDPE,Bundle Various,Medium Pressure Gas
+No Sleeve,HDPE,Bundle Mix,Medium Pressure Gas
+No Sleeve,HDPE,Single,Low Pressure Gas
+No Sleeve,HDPE,Parallel,Low Pressure Gas
+No Sleeve,HDPE,Parallel Mix,Low Pressure Gas
+No Sleeve,HDPE,Bundle Uniform,Low Pressure Gas
+No Sleeve,HDPE,Bundle Various,Low Pressure Gas
+No Sleeve,HDPE,Bundle Mix,Low Pressure Gas
+No Sleeve,HDPE,Single,Electrical Cables
+No Sleeve,HDPE,Parallel,Electrical Cables
+No Sleeve,HDPE,Parallel Mix,Electrical Cables
+No Sleeve,HDPE,Bundle Uniform,Electrical Cables
+No Sleeve,HDPE,Bundle Various,Electrical Cables
+No Sleeve,HDPE,Bundle Mix,Electrical Cables
+No Sleeve,HDPE,Single,Telecommunications Cables
+No Sleeve,HDPE,Parallel,Telecommunications Cables
+No Sleeve,HDPE,Parallel Mix,Telecommunications Cables
+No Sleeve,HDPE,Bundle Uniform,Telecommunications Cables
+No Sleeve,HDPE,Bundle Various,Telecommunications Cables
+No Sleeve,HDPE,Bundle Mix,Telecommunications Cables
+No Sleeve,HDPE,Single,Cathodic Protection
+No Sleeve,HDPE,Parallel,Cathodic Protection
+No Sleeve,HDPE,Parallel Mix,Cathodic Protection
+No Sleeve,HDPE,Bundle Uniform,Cathodic Protection
+No Sleeve,HDPE,Bundle Various,Cathodic Protection
+No Sleeve,HDPE,Bundle Mix,Cathodic Protection
+No Sleeve,HDPE,Single,Earthing Cables
+No Sleeve,HDPE,Parallel,Earthing Cables
+No Sleeve,HDPE,Parallel Mix,Earthing Cables
+No Sleeve,HDPE,Bundle Uniform,Earthing Cables
+No Sleeve,HDPE,Bundle Various,Earthing Cables
+No Sleeve,HDPE,Bundle Mix,Earthing Cables
+No Sleeve,HDPE,Single,Ground Dewatering
+No Sleeve,HDPE,Parallel,Ground Dewatering
+No Sleeve,HDPE,Parallel Mix,Ground Dewatering
+No Sleeve,HDPE,Bundle Uniform,Ground Dewatering
+No Sleeve,HDPE,Bundle Various,Ground Dewatering
+No Sleeve,HDPE,Bundle Mix,Ground Dewatering
+No Sleeve,Steel Coated,Single,Ethanol and Biofuels
+No Sleeve,Steel Coated,Parallel,Ethanol and Biofuels
+No Sleeve,Steel Coated,Parallel Mix,Ethanol and Biofuels
+No Sleeve,Steel Coated,Dual Uniform,Ethanol and Biofuels
+No Sleeve,Steel Coated,Dual Various,Ethanol and Biofuels
+No Sleeve,Steel Coated,Bundle Mix,Ethanol and Biofuels
+No Sleeve,Steel Coated,Single,Hydrogen Compounds
+No Sleeve,Steel Coated,Parallel,Hydrogen Compounds
+No Sleeve,Steel Coated,Parallel Mix,Hydrogen Compounds
+No Sleeve,Steel Coated,Dual Uniform,Hydrogen Compounds
+No Sleeve,Steel Coated,Dual Various,Hydrogen Compounds
+No Sleeve,Steel Coated,Bundle Mix,Hydrogen Compounds
+No Sleeve,Steel Coated,Single,Hydrogen
+No Sleeve,Steel Coated,Parallel,Hydrogen
+No Sleeve,Steel Coated,Parallel Mix,Hydrogen
+No Sleeve,Steel Coated,Dual Uniform,Hydrogen
+No Sleeve,Steel Coated,Dual Various,Hydrogen
+No Sleeve,Steel Coated,Bundle Mix,Hydrogen
+No Sleeve,Steel Coated,Single,Fuel/Gasoline
+No Sleeve,Steel Coated,Parallel,Fuel/Gasoline
+No Sleeve,Steel Coated,Parallel Mix,Fuel/Gasoline
+No Sleeve,Steel Coated,Dual Uniform,Fuel/Gasoline
+No Sleeve,Steel Coated,Dual Various,Fuel/Gasoline
+No Sleeve,Steel Coated,Bundle Mix,Fuel/Gasoline
+No Sleeve,Steel Coated,Single,Diesel
+No Sleeve,Steel Coated,Parallel,Diesel
+No Sleeve,Steel Coated,Parallel Mix,Diesel
+No Sleeve,Steel Coated,Dual Uniform,Diesel
+No Sleeve,Steel Coated,Dual Various,Diesel
+No Sleeve,Steel Coated,Bundle Mix,Diesel
+No Sleeve,Steel Coated,Single,Jet fuel
+No Sleeve,Steel Coated,Parallel,Jet fuel
+No Sleeve,Steel Coated,Parallel Mix,Jet fuel
+No Sleeve,Steel Coated,Dual Uniform,Jet fuel
+No Sleeve,Steel Coated,Dual Various,Jet fuel
+No Sleeve,Steel Coated,Bundle Mix,Jet fuel
+No Sleeve,Steel Coated,Single,Medium Pressure Gas
+No Sleeve,Steel Coated,Parallel,Medium Pressure Gas
+No Sleeve,Steel Coated,Parallel Mix,Medium Pressure Gas
+No Sleeve,Steel Coated,Dual Uniform,Medium Pressure Gas
+No Sleeve,Steel Coated,Dual Various,Medium Pressure Gas
+No Sleeve,Steel Coated,Bundle Mix,Medium Pressure Gas
+No Sleeve,Steel Coated,Single,Low Pressure Gas
+No Sleeve,Steel Coated,Parallel,Low Pressure Gas
+No Sleeve,Steel Coated,Parallel Mix,Low Pressure Gas
+No Sleeve,Steel Coated,Dual Uniform,Low Pressure Gas
+No Sleeve,Steel Coated,Dual Various,Low Pressure Gas
+No Sleeve,Steel Coated,Bundle Mix,Low Pressure Gas
+No Sleeve,Steel Coated,Single,High/Transmission Pressure Gas
+No Sleeve,Steel Coated,Parallel,High/Transmission Pressure Gas
+No Sleeve,Steel Coated,Parallel Mix,High/Transmission Pressure Gas
+No Sleeve,Steel Coated,Dual Uniform,High/Transmission Pressure Gas
+No Sleeve,Steel Coated,Dual Various,High/Transmission Pressure Gas
+No Sleeve,Steel Coated,Bundle Mix,High/Transmission Pressure Gas
+No Sleeve,Steel Coated,Single,Ground Dewatering
+No Sleeve,Steel Coated,Parallel,Ground Dewatering
+No Sleeve,Steel Coated,Parallel Mix,Ground Dewatering
+No Sleeve,Steel Coated,Dual Uniform,Ground Dewatering
+No Sleeve,Steel Coated,Dual Various,Ground Dewatering
+No Sleeve,Steel Coated,Bundle Mix,Ground Dewatering
+No Sleeve,Steel Bare,Single,Ground Dewatering
+No Sleeve,Steel Bare,Parallel,Ground Dewatering
+No Sleeve,Steel Bare,Single,Sleeve Enveloper or Casing Pipe
+No Sleeve,Steel Bare,Parallel,Sleeve Enveloper or Casing Pipe
+No Sleeve,Drill pipe,Drill pipe,Telecommunications Cables
+No Sleeve,Drill pipe,Threaded Casing,Telecommunications Cables
+No Sleeve,Drill pipe,Drill pipe,Earthing Cables
+No Sleeve,Drill pipe,Threaded Casing,Earthing Cables
+No Sleeve,Drill pipe,Drill pipe,Ground Dewatering
+No Sleeve,Drill pipe,Threaded Casing,Ground Dewatering
+Steel,HDPE,Single,Raw Water
+Steel,HDPE,Parallel,Raw Water
+Steel,HDPE,Parallel Mix,Raw Water
+Steel,HDPE,Bundle Uniform,Raw Water
+Steel,HDPE,Bundle Various,Raw Water
+Steel,HDPE,Bundle Mix,Raw Water
+Steel,HDPE,Single,Potable Water
+Steel,HDPE,Parallel,Potable Water
+Steel,HDPE,Parallel Mix,Potable Water
+Steel,HDPE,Bundle Uniform,Potable Water
+Steel,HDPE,Bundle Various,Potable Water
+Steel,HDPE,Bundle Mix,Potable Water
+Steel,HDPE,Single,Recycled Water
+Steel,HDPE,Parallel,Recycled Water
+Steel,HDPE,Parallel Mix,Recycled Water
+Steel,HDPE,Bundle Uniform,Recycled Water
+Steel,HDPE,Bundle Various,Recycled Water
+Steel,HDPE,Bundle Mix,Recycled Water
+Steel,HDPE,Single,Sea Water
+Steel,HDPE,Parallel,Sea Water
+Steel,HDPE,Parallel Mix,Sea Water
+Steel,HDPE,Bundle Uniform,Sea Water
+Steel,HDPE,Bundle Various,Sea Water
+Steel,HDPE,Bundle Mix,Sea Water
+Steel,HDPE,Single,Pressute Sewage and Sludges
+Steel,HDPE,Parallel,Pressute Sewage and Sludges
+Steel,HDPE,Parallel Mix,Pressute Sewage and Sludges
+Steel,HDPE,Bundle Uniform,Pressute Sewage and Sludges
+Steel,HDPE,Bundle Various,Pressute Sewage and Sludges
+Steel,HDPE,Bundle Mix,Pressute Sewage and Sludges
+Steel,HDPE,Single,Storm Water
+Steel,HDPE,Parallel,Storm Water
+Steel,HDPE,Parallel Mix,Storm Water
+Steel,HDPE,Bundle Uniform,Storm Water
+Steel,HDPE,Bundle Various,Storm Water
+Steel,HDPE,Bundle Mix,Storm Water
+Steel,HDPE,Single,Sand Gravel and Slurries
+Steel,HDPE,Parallel,Sand Gravel and Slurries
+Steel,HDPE,Parallel Mix,Sand Gravel and Slurries
+Steel,HDPE,Bundle Uniform,Sand Gravel and Slurries
+Steel,HDPE,Bundle Various,Sand Gravel and Slurries
+Steel,HDPE,Bundle Mix,Sand Gravel and Slurries
+Steel,HDPE,Single,Medium Pressure Gas
+Steel,HDPE,Parallel,Medium Pressure Gas
+Steel,HDPE,Parallel Mix,Medium Pressure Gas
+Steel,HDPE,Bundle Uniform,Medium Pressure Gas
+Steel,HDPE,Bundle Various,Medium Pressure Gas
+Steel,HDPE,Bundle Mix,Medium Pressure Gas
+Steel,HDPE,Single,Low Pressure Gas
+Steel,HDPE,Parallel,Low Pressure Gas
+Steel,HDPE,Parallel Mix,Low Pressure Gas
+Steel,HDPE,Bundle Uniform,Low Pressure Gas
+Steel,HDPE,Bundle Various,Low Pressure Gas
+Steel,HDPE,Bundle Mix,Low Pressure Gas
+Steel,HDPE,Single,Electrical Cables
+Steel,HDPE,Parallel,Electrical Cables
+Steel,HDPE,Parallel Mix,Electrical Cables
+Steel,HDPE,Bundle Uniform,Electrical Cables
+Steel,HDPE,Bundle Various,Electrical Cables
+Steel,HDPE,Bundle Mix,Electrical Cables
+Steel,HDPE,Single,Telecommunications Cables
+Steel,HDPE,Parallel,Telecommunications Cables
+Steel,HDPE,Parallel Mix,Telecommunications Cables
+Steel,HDPE,Bundle Uniform,Telecommunications Cables
+Steel,HDPE,Bundle Various,Telecommunications Cables
+Steel,HDPE,Bundle Mix,Telecommunications Cables
+Steel,HDPE,Single,Cathodic Protection
+Steel,HDPE,Parallel,Cathodic Protection
+Steel,HDPE,Parallel Mix,Cathodic Protection
+Steel,HDPE,Bundle Uniform,Cathodic Protection
+Steel,HDPE,Bundle Various,Cathodic Protection
+Steel,HDPE,Bundle Mix,Cathodic Protection
+Steel,HDPE,Single,Earthing Cables
+Steel,HDPE,Parallel,Earthing Cables
+Steel,HDPE,Parallel Mix,Earthing Cables
+Steel,HDPE,Bundle Uniform,Earthing Cables
+Steel,HDPE,Bundle Various,Earthing Cables
+Steel,HDPE,Bundle Mix,Earthing Cables
+Steel,HDPE,Single,Ground Dewatering
+Steel,HDPE,Parallel,Ground Dewatering
+Steel,HDPE,Parallel Mix,Ground Dewatering
+Steel,HDPE,Bundle Uniform,Ground Dewatering
+Steel,HDPE,Bundle Various,Ground Dewatering
+Steel,HDPE,Bundle Mix,Ground Dewatering
+Steel,Steel,Single,Ethanol and Biofuels
+Steel,Steel,Parallel,Ethanol and Biofuels
+Steel,Steel,Parallel Mix,Ethanol and Biofuels
+Steel,Steel,Dual,Ethanol and Biofuels
+Steel,Steel,Dual Various,Ethanol and Biofuels
+Steel,Steel,Bundle Mix,Ethanol and Biofuels
+Steel,Steel,Single,Hydrogen Compounds
+Steel,Steel,Parallel,Hydrogen Compounds
+Steel,Steel,Parallel Mix,Hydrogen Compounds
+Steel,Steel,Dual,Hydrogen Compounds
+Steel,Steel,Dual Various,Hydrogen Compounds
+Steel,Steel,Bundle Mix,Hydrogen Compounds
+Steel,Steel,Single,Hydrogen
+Steel,Steel,Parallel,Hydrogen
+Steel,Steel,Parallel Mix,Hydrogen
+Steel,Steel,Dual,Hydrogen
+Steel,Steel,Dual Various,Hydrogen
+Steel,Steel,Bundle Mix,Hydrogen
+Steel,Steel,Single,Fuel/Gasoline
+Steel,Steel,Parallel,Fuel/Gasoline
+Steel,Steel,Parallel Mix,Fuel/Gasoline
+Steel,Steel,Dual,Fuel/Gasoline
+Steel,Steel,Dual Various,Fuel/Gasoline
+Steel,Steel,Bundle Mix,Fuel/Gasoline
+Steel,Steel,Single,Diesel
+Steel,Steel,Parallel,Diesel
+Steel,Steel,Parallel Mix,Diesel
+Steel,Steel,Dual,Diesel
+Steel,Steel,Dual Various,Diesel
+Steel,Steel,Bundle Mix,Diesel
+Steel,Steel,Single,Jet fuel
+Steel,Steel,Parallel,Jet fuel
+Steel,Steel,Parallel Mix,Jet fuel
+Steel,Steel,Dual,Jet fuel
+Steel,Steel,Dual Various,Jet fuel
+Steel,Steel,Bundle Mix,Jet fuel
+Steel,Steel,Single,Medium Pressure Gas
+Steel,Steel,Parallel,Medium Pressure Gas
+Steel,Steel,Parallel Mix,Medium Pressure Gas
+Steel,Steel,Dual,Medium Pressure Gas
+Steel,Steel,Dual Various,Medium Pressure Gas
+Steel,Steel,Bundle Mix,Medium Pressure Gas
+Steel,Steel,Single,Low Pressure Gas
+Steel,Steel,Parallel,Low Pressure Gas
+Steel,Steel,Parallel Mix,Low Pressure Gas
+Steel,Steel,Dual,Low Pressure Gas
+Steel,Steel,Dual Various,Low Pressure Gas
+Steel,Steel,Bundle Mix,Low Pressure Gas
+Steel,Steel,Single,High/Transmission Pressure Gas
+Steel,Steel,Parallel,High/Transmission Pressure Gas
+Steel,Steel,Parallel Mix,High/Transmission Pressure Gas
+Steel,Steel,Dual,High/Transmission Pressure Gas
+Steel,Steel,Dual Various,High/Transmission Pressure Gas
+Steel,Steel,Bundle Mix,High/Transmission Pressure Gas
+Steel,Steel,Single,Ground Dewatering
+Steel,Steel,Parallel,Ground Dewatering
+Steel,Steel,Parallel Mix,Ground Dewatering
+Steel,Steel,Dual,Ground Dewatering
+Steel,Steel,Dual Various,Ground Dewatering
+Steel,Steel,Bundle Mix,Ground Dewatering
+Jacking Pipe,HDPE,Single,Potable Water
+Jacking Pipe,Steel,Single,Raw Water
+Jacking Pipe,Steel,Bundle Mix,Low Pressure Gas,
