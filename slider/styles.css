@@ -48,3 +48,15 @@
 .owl-carousel .owl-item:not(.center) .slider-item {
     transform: scale(0.8);
 }
+
+@media (max-width: 768px) {
+    .owl-carousel .owl-item.center .slider-item {
+        transform: scale(1.2);
+        max-width: 100%;
+        margin: 0;
+    }
+
+    .owl-carousel .owl-item:not(.center) .slider-item {
+        transform: scale(0.8);
+    }
+}
